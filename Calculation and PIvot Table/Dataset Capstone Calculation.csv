@@ -1,14 +1,52 @@
-Category,SUM of Sales,Region,SUM of Sales,Order Date - Month,SUM of Sales,SUM of Sales,Category,,,
-Furniture,683529.1059,Central,477544.7962,Jan,147684.8293,Segment,Furniture,Office Supplies,Technology,Grand Total
-Office Supplies,836360.3989,East,639123.326,Feb,242642.3767,Consumer,384809.2977,445557.6393,377781.3281,1208148.265
-Technology,758780.6493,South,377408.3134,Mar,205860.8539,Corporate,200626.9874,255683.3415,208623.66,664933.9889
-Grand Total,2278670.154,West,784593.7186,Apr,139983.3868,Home Office,98092.82086,135119.4181,172375.6612,405587.9002
-,,Grand Total,2278670.154,May,164478.3836,Grand Total,683529.1059,836360.3989,758780.6493,2278670.154
-,,,,Jun,138032.2047,,,,,
-,,,,Jul,154960.8255,,,,,
-,,,,Aug,190949.5915,,,,,
-,,,,Sep,228986.5717,,,,,
-,,,,Oct,172513.9765,,,,,
-,,,,Nov,258061.6431,,,,,
-,,,,Dec,234515.5108,,,,,
-,,,,Grand Total,2278670.154,,,,,
+Category	SUM of Sales	Region	SUM of Sales	Order Date - Month	SUM of Sales	SUM of Sales	Category				Sub-Category	SUM of Sales	Ship Mode	SUM of Sales	State	COUNTA of Order ID	SUM of Sales	Category			
+Furniture	683529.1059	Central	477544.7962	Jan	147684.8293	Segment	Furniture	Office Supplies	Technology	Grand Total	Accessories	157722.7192	First Class	333945.1187	Alabama	58	Region	Furniture	Office Supplies	Technology	Grand Total
+Office Supplies	836360.3989	East	639123.326	Feb	242642.3767	Consumer	384809.2977	445557.6393	377781.3281	1208148.265	Appliances	101570.9856	Same Day	119173.8891	Arizona	211	Central	146646.0163	182575.7794	148323.0006	477544.7962
+Technology	758780.6493	South	377408.3134	Mar	205860.8539	Corporate	200626.9874	255683.3415	208623.66	664933.9889	Art	32355.40543	Second Class	431344.4663	Arkansas	58	East	182509.2062	227878.5679	228735.5519	639123.326
+Grand Total	2278670.154	West	784593.7186	Apr	139983.3868	Home Office	98092.82086	135119.4181	172375.6612	405587.9002	Binders	188162.9873	Standard Class	1394206.68	California	1850	South	100702.9524	139050.071	137655.29	377408.3134
+		Grand Total	2278670.154	May	164478.3836	Grand Total	683529.1059	836360.3989	758780.6493	2278670.154	Bookcases	104093.1984	Grand Total	2278670.154	Colorado	174	West	253670.9311	286855.9806	244066.8068	784593.7186
+				Jun	138032.2047						Chairs	297816.1044			Connecticut	75	Grand Total	683529.1059	836360.3989	758780.6493	2278670.154
+				Jul	154960.8255						Copiers	131313.2018			Delaware	87					
+				Aug	190949.5915						Envelopes	17880.99872			District of Columbia	9					
+				Sep	228986.5717						Fasteners	5282.737118			Florida	348					
+				Oct	172513.9765						Furnishings	90913.49247			Georgia	171					
+				Nov	258061.6431						Labels	16831.13416			Idaho	21					
+				Dec	234515.5108						Machines	173676.2205			Illinois	454					
+				Grand Total	2278670.154						Misc	137757.8484			Indiana	127					
+											Paper	84201.43903			Iowa	24					
+											Phones	304170.5489			Kansas	23					
+											Storage	206677.4614			Kentucky	133					
+											Supplies	43378.6332			Louisiana	41					
+											Tables	184865.038			Maine	8					
+											Grand Total	2278670.154			Maryland	98					
+															Massachusetts	128					
+															Michigan	235					
+															Minnesota	86					
+															Mississippi	48					
+															Missouri	61					
+															Montana	14					
+															Nebraska	36					
+															Nevada	38					
+															New Hampshire	27					
+															New Jersey	118					
+															New Mexico	35					
+															New York	1046					
+															North Carolina	234					
+															North Dakota	6					
+															Ohio	433					
+															Oklahoma	64					
+															Oregon	116					
+															Pennsylvania	559					
+															Rhode Island	53					
+															South Carolina	42					
+															South Dakota	12					
+															Tennessee	176					
+															Texas	932					
+															Unknown	487					
+															Utah	50					
+															Vermont	11					
+															Virginia	201					
+															Washington	480					
+															West Virginia	4					
+															Wisconsin	99					
+															Wyoming	1					
+															Grand Total	9802					
