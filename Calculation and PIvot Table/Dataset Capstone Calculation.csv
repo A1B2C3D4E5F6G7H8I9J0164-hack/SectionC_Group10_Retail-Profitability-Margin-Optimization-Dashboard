@@ -1,0 +1,14 @@
+Category,SUM of Sales,Region,SUM of Sales,Order Date - Month,SUM of Sales,SUM of Sales,Category,,,
+Furniture,683529.1059,Central,477544.7962,Jan,147684.8293,Segment,Furniture,Office Supplies,Technology,Grand Total
+Office Supplies,836360.3989,East,639123.326,Feb,242642.3767,Consumer,384809.2977,445557.6393,377781.3281,1208148.265
+Technology,758780.6493,South,377408.3134,Mar,205860.8539,Corporate,200626.9874,255683.3415,208623.66,664933.9889
+Grand Total,2278670.154,West,784593.7186,Apr,139983.3868,Home Office,98092.82086,135119.4181,172375.6612,405587.9002
+,,Grand Total,2278670.154,May,164478.3836,Grand Total,683529.1059,836360.3989,758780.6493,2278670.154
+,,,,Jun,138032.2047,,,,,
+,,,,Jul,154960.8255,,,,,
+,,,,Aug,190949.5915,,,,,
+,,,,Sep,228986.5717,,,,,
+,,,,Oct,172513.9765,,,,,
+,,,,Nov,258061.6431,,,,,
+,,,,Dec,234515.5108,,,,,
+,,,,Grand Total,2278670.154,,,,,
