@@ -170,13 +170,15 @@ A detailed project report covering methodology, findings, and business recommend
 
 > [`Documentation/Retail Sales Performance & Operational Efficiency Analysis.pdf`](Documentation/Retail%20Sales%20Performance%20%26%20Operational%20Efficiency%20Analysis%20(1).pdf)
 
+> [`Direct Report Link`](https://docs.google.com/document/d/1irLA_jXtsgEpZnzh0xRmhwhzpkpY8BP_tJ3v2AU9rkk/edit?usp=sharing)
+
 ---
 
 ## Getting Started
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-org>/SectionC_Group10_Retail-Profitability-Margin-Optimization-Dashboard.git
+   git clone https://github.com/A1B2C3D4E5F6G7H8I9J0164-hack/SectionC_Group10_Retail-Profitability-Margin-Optimization-Dashboard.git
    cd SectionC_Group10_Retail-Profitability-Margin-Optimization-Dashboard
    ```
 
@@ -208,8 +210,12 @@ A detailed project report covering methodology, findings, and business recommend
 | Name | Section |
 |------|---------|
 | Group 10 Members | Section C |
+| 1. Viraj Chafale | Section C |
+| 2. Aryan Patel | Section C |
+| 3. Aditya Rana | Section C |
+| 4. Augustya Purohit | Section C |
+| 5. Gogulamudi Jayadeep | Section C |
 
-> _Update this table with individual contributor names and roles._
 
 ---
 
